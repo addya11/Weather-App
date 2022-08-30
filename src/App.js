@@ -18,6 +18,7 @@ function App() {
           console.log(result);
         });
     }
+  }
   
 
   const dateBuilder = (d) => {
